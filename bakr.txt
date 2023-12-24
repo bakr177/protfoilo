@@ -1,0 +1,54 @@
+<!===========home page==============!>
+Frontend Developer,with knowledge in web development and design, i offer the best projects resulting in quality work.
+
+<!===========about page==============!>
+Passionate about creating web Pageswith UI/UX User interface, I have years of experience and many clients are happy with the projects carried out
+
+My skills are: HTML,css,javaScript, React, Git & GitHub,Bootstrap, Flutter & Figma
+
+contact my
+<!===========servises page==============!>
+Web Design
+Beautiful and elegant designs with interface that are intuitive, efficiet and pleasant to use for the user.
+
+Development
+Custom web development tailored to your specifications, designed to provide a flawless user experience.
+
+Mobile App
+Design and transform website projects into mobile apps to provide a seamless user experience.
+
+
+<!===========projects page==============!>
+Website
+Restaurant Website
+Project that you carry out in the design and structure of the layout, showing the design at the client's request
+
+
+<!===========contact page==============!>
+
+I will read all emails. Send me any message you want and I'll get back to you.
+
+I need your Name and Email Address, but you won't receive anything other than your reply.
+
+
+Send Me A Message
+
+Write me on my social networks
+
+Does not send emails
+
+
+google font-
+
+<i class="fa-brands fa-github"></i>
+<i class="fa-brands fa-dribbble"></i>
+<i class="fa-brands fa-linkedin"></i>
+<i class="fa-brands fa-figma"></i>
+<i class="fa-regular fa-paper-plane"></i>
+<i class="fa-solid fa-code"></i>
+<i class="fa-solid fa-table-columns"></i>
+<i class="fa-solid fa-mobile-screen-button"></i>
+<i class="fa-solid fa-square-arrow-up-right"></i>
+<i class="fa-brands fa-instagram"></i>
+<i class="fa-brands fa-x-twitter"></i>
+<i class="fa-solid fa-hourglass-half"></i>
